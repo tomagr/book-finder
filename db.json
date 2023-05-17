@@ -1,3 +1,44 @@
 {
-  "books": []
+  "books": [
+    {
+      "id": 1,
+      "title": "The Lord of the Rings"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird"
+    },
+    {
+      "id": 3,
+      "title": "1984"
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice"
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Sorcerer's Stone"
+    },
+    {
+      "id": 6,
+      "title": "The Great Gatsby"
+    },
+    {
+      "id": 7,
+      "title": "Moby-Dick"
+    },
+    {
+      "id": 8,
+      "title": "The Flan of God"
+    },
+    {
+      "id": 9,
+      "title": "The Catcher in the Rye"
+    },
+    {
+      "id": 10,
+      "title": "The Hobbit"
+    }
+  ]
 }
